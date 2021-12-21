@@ -4,6 +4,7 @@ using System.Data;
 using System.Linq;
 using System.Windows.Forms;
 
+/// Keep attention on right spacing!
 namespace Ivanov
 {
     public partial class Form1 : Form
