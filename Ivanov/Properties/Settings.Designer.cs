@@ -8,6 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+/// Keep eye on code?? Kos-Leb
 
 namespace Ivanov.Properties
 {
