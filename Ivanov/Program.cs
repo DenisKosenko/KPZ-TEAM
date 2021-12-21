@@ -13,10 +13,10 @@ namespace Ivanov
         /// </summary>
         [STAThread]
         static void Main()
-        {
-            Application.Run(new StartForm());
+        {   
             Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);     
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new StartForm());
         }
     }
 }
