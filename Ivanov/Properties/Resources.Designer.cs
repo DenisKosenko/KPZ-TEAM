@@ -7,7 +7,7 @@
 //     the code is regenerated.
 // </auto-generated>
 //------------------------------------------------------------------------------
-
+// generator required_on_road
 
 namespace Ivanov.Properties
 {
